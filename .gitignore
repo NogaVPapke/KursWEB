@@ -1,0 +1,12 @@
+/Commands.txt
+/scriptForGenerate10Cars
+# Node
+node_modules/
+client/node_modules/
+venv/
+.conda/
+__pycache__/
+*.pyc
+db.sqlite3
+media/
+.env
